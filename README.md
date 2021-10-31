@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MKabangu
+- 👋 Hi, I’m ... **@MKabangu**
 - 👀 I’m interested in ... **emerging infectious diseases**
 - 🌱 I’m currently learning ... **computational genetics and genomics**
 - 📫 How to reach me ... **by email or through LinkedIn**
