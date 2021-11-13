@@ -11,7 +11,7 @@
 - 🌱 Learning about:
   - Genetic analysis & mapping
   - Developmental genetics
-  - Transcriptomics (bulk, single cell, and single nuclei)
+  - Transcriptomics (bulk, single cell, and single nuclei RNA-Sequencing)
   - Data visualization
   
 <!-- - ⚡ More about me: 📝[`Website`](https://mkabangu.github.io/) -->
