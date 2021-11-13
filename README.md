@@ -4,7 +4,7 @@
 
 - 🚀 I use daily:
   - ![Git](https://img.shields.io/badge/-Git-blasck?style=for-the-badge&logo=git)
-  - ![RStudio](https://img.shields.io/badge/-RStudio-lightgrey?style=for-the-badge&logo=rstudio)
+  - ![RStudio](https://img.shields.io/badge/-RStudio-ebebec?style=for-the-badge&logo=rstudio)
   - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
   - ![Shell](https://img.shields.io/badge/-Shell-8fcfd1?style=for-the-badge&logo=Shell)
   - ![R](https://img.shields.io/badge/-Bioconductor-1d64b6?style=for-the-badge&logo=R)
