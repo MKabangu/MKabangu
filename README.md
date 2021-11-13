@@ -3,9 +3,10 @@
 - 🔭 I’m currently working on `Regeneration Genetics and Genomics`🦎🧬
 
 - 🚀 I use daily:
-  ![Command Line](https://img.shields.io/badge/-command_line-fbe7b9?style=for-the-badge&labelColor=black&logo=ubuntu)
-  ![RStudio](https://img.shields.io/badge/-RStudio-bad5ed?style=for-the-badge&labelColor=black&logo=rstudio)
-  ![Bioconductor](https://img.shields.io/badge/-Bioconductor-ebebec?style=for-the-badge&labelColor=black&logo=R)
+
+  [![Command Line](https://img.shields.io/badge/-command_line-fbe7b9?style=for-the-badge&labelColor=black&logo=ubuntu)](#)
+  [![RStudio](https://img.shields.io/badge/-RStudio-bad5ed?style=for-the-badge&labelColor=black&logo=rstudio)](#)
+  [![Bioconductor](https://img.shields.io/badge/-Bioconductor-ebebec?style=for-the-badge&labelColor=black&logo=R)](#)
 
 - 🌱 Learning about:
   - Genetic analysis & mapping
