@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on `Regeneration Genetics and Genomics`🦎🧬
 
 - 🚀 I use daily:
-  ![Shell](https://img.shields.io/badge/-command_line-8fcfd1?style=for-the-badge&logo=ubuntu)
-  ![Git](https://img.shields.io/badge/-Git-8e8c8a?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-  ![RStudio](https://img.shields.io/badge/-RStudio-ebebec?style=for-the-badge&logo=rstudio)
-  ![Bioconductor](https://img.shields.io/badge/-Bioconductor-1d64b6?style=for-the-badge&logo=R)
+  ![Shell](https://img.shields.io/badge/-command_line-8fcfd1?style=for-the-badge&labelColor=black&logo=ubuntu)
+  ![Git](https://img.shields.io/badge/-Git-8e8c8a?style=for-the-badge&labelColor=black&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github)
+  ![RStudio](https://img.shields.io/badge/-RStudio-ebebec?style=for-the-badge&labelColor=black&logo=rstudio)
+  ![Bioconductor](https://img.shields.io/badge/-Bioconductor-1d64b6?style=for-the-badge&labelColor=black&logo=R)
 
 - 🌱 Learning about:
   - Genetic analysis & mapping
