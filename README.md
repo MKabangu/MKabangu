@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `Regeneration Genetics and Genomics`🦎🧬
+- 🔭 I’m currently working on `Regeneration Genetics and Genomics`
 
 - 🚀 I use daily:
 
