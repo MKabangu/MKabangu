@@ -4,10 +4,8 @@
 
 - 🚀 I use daily:
   ![Command Line](https://img.shields.io/badge/-command_line-fbe7b9?style=for-the-badge&labelColor=black&logo=ubuntu)
-  ![Git](https://img.shields.io/badge/-Git-8e8c8a?style=for-the-badge&labelColor=black&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github)
-  ![RStudio](https://img.shields.io/badge/-RStudio-ebebec?style=for-the-badge&labelColor=black&logo=rstudio)
-  ![Bioconductor](https://img.shields.io/badge/-Bioconductor-a5c1e2?style=for-the-badge&labelColor=black&logo=R)
+  ![RStudio](https://img.shields.io/badge/-RStudio-bad5ed?style=for-the-badge&labelColor=black&logo=rstudio)
+  ![Bioconductor](https://img.shields.io/badge/-Bioconductor-ebebec?style=for-the-badge&labelColor=black&logo=R)
 
 - 🌱 Learning about:
   - Genetic analysis & mapping
