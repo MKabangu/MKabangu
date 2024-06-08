@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is ***Mirindi Kabangu*** and I code sometimes
+- My name is **Mirindi Kabangu** and I code sometimes
 - 🥼 I am a third year medical student at Indiana University School of Medicine
 - 🌱 My interests are in:
   - Genetics and Genomics
