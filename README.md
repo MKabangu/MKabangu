@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Mirindi Kabangu** and I code sometimes
 
-- 🥼 I am a third year medical student at Indiana University School of Medicine
+- 🥼 I am a third year medical student
 - 🌱 My interests are in:
   - Genetics and Genomics
   - Neurointerventional surgery
